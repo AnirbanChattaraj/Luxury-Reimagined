@@ -48,4 +48,5 @@ Scales smoothly across all screen sizes
 If you want an upgraded version (landing page, store page, animations, premium UI),
 just ask — I can generate full production-ready pages.
 Preview>>https://anirbanchattaraj.github.io/Luxury-Reimagined/
-Author>>
+
+Author>>Anirban Chattaraj
