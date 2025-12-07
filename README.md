@@ -39,7 +39,7 @@ Premium button styles (if used)
 
 📱 Fully Responsive
 
-Mobile-optimized
+Mobile-optimized:
 
 Scales smoothly across all screen sizes
 
