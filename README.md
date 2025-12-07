@@ -43,7 +43,7 @@ Mobile-optimized:
 
 Scales smoothly across all screen sizes
 
-💬 Support
+💬 Support:
 
 If you want an upgraded version (landing page, store page, animations, premium UI),
 just ask — I can generate full production-ready pages.
